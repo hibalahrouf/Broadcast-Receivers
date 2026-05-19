@@ -144,9 +144,7 @@ Dans `AndroidManifest.xml` :
 
 # Démonstration vidéo
 
-
-
-[Ajouter ici le lien de la vidéo]
+https://github.com/user-attachments/assets/b87dadf1-e36a-4b6a-96ee-4f7516727c74
 
 ---
 
@@ -160,6 +158,3 @@ Dans `AndroidManifest.xml` :
 
 ---
 
-# Auteur
-
-**Hiba Lahrouf**
