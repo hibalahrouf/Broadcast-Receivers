@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="#F4F7FB">
+
+    <TextView
+        android:id="@+id/textReceiverStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Receiver inactive"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1D3557"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/buttonToggleReceiver"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:text="Enable Airplane Receiver"
+        android:backgroundTint="#457B9D"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/buttonSendMessage"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:text="Send Internal Broadcast"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#2A9D8F"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>
